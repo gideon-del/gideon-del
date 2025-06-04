@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gideon</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer and Mobile developer with a strong desire to keep growing further </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gideon-del&label=Profile%20views&color=0e75b6&style=flat" alt="gideon-del" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideon-del" alt="gideon-del" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript and Astro**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **react, typescript or firebase**
+- 💬 Ask me about **Frontend or Mobile**
 
 - ⚡ Fun fact **I like watching anime**
 
